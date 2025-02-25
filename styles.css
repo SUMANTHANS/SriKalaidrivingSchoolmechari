@@ -29,10 +29,6 @@ body {
     flex-wrap: wrap;
 }
 
-.navbar li {
-    margin: 10px 15px;
-}
-
 .navbar a {
     color: #000;
     text-decoration: none;
@@ -83,7 +79,7 @@ body {
     flex-wrap: wrap;
     gap: 20px;
     justify-content: space-between;
-     text-align: center;
+     
 }
 
 .about-text {
